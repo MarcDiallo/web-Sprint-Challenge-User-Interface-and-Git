@@ -1,7 +1,11 @@
+
+
 header{
     margin-left: 25%;
 }
-
+.button1{
+    margin-left: 5%;
+}
 .row1{
    display: flex;
    flex-direction: row; 
@@ -9,13 +13,19 @@ header{
 .row1 .block2{
     margin-left: 29%;
 }
-.block1{
+.row1 .block1{
     margin-left: 12%;
 }
 .row2{
     display: flex;
     flex-direction: row;
 }
-.row2 .block4{
+.row2 .block3{
    margin-left: 29%; 
 }
+.row2 .block4{
+    margin-left: 5%;
+}
+ .footer{
+    margin-left: 25%;
+ }

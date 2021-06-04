@@ -101,6 +101,7 @@ p {
     justify-content: space-evenly;
 }
 
+
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
@@ -143,4 +144,7 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+.middle-content .box3{
+    background-color: red;
 }
